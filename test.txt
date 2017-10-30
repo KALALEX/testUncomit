@@ -1,0 +1,14 @@
+
+asdsa
+asdwasaaaaaaaa
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+magic
+<<<<<<< HEAD
+
+
+
+
+
+pepepepepepepep
+=======
+>>>>>>> 1
